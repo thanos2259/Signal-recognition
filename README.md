@@ -1,0 +1,2 @@
+# Signal-recognition
+This application was created with matlab and can recognize Greek traffic signals using two methods. KNN classifier and neural network. The base is made up of images of Greek traffic signals and is meant to be used to create a system that can recognize signals in real road conditions. The problem is that the signals will be called to recognize the implemented system will be in real road conditions, for this reason the method of Fourier-Mellin transform for feature extraction from each image is suitable for solving such problems. 
